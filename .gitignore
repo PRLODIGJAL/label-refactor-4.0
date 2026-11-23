@@ -1,0 +1,8 @@
+data/
+runtime/
+wheels/
+dev/
+模板/
+__pycache__/
+*.pyc
+.DS_Store
